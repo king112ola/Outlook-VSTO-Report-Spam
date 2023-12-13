@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\DavidLi\Desktop\Outlook_VSTO\SpamEmail_AddIn\Publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory>https://www.amidas.com.hk/</SupportUrlHistory>
+  </PropertyGroup>
+</Project>
